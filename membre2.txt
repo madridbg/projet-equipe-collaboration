@@ -1,3 +1,4 @@
 Nom : Jacob Somphanthabansouk
 Rôle : Développeur
 Responsabilités : Développement et tests du code
+Compétence : Apprentissage rapide
