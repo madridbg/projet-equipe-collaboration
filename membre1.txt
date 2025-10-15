@@ -1,3 +1,4 @@
 Nom : Madrid
 Rôle : Chef d'équipe
 Responsabilités : Coordination du projet et gestion du dépôt GitHub
+Compétence : Communication
